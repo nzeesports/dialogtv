@@ -1,6 +1,7 @@
 <?php
 $get = $_GET['get'];
-$mpdUrl = 'https://bpcdn.dialog.lk/' . $get;
+$mpdUrl = '
+https://bpcdn.dialog.lk/bpk-tv/' . $get;
 
 $mpdheads = [
   'http' => [
